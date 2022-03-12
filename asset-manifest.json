@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/mesto-react-lk/static/css/main.8950bf51.css",
-    "main.js": "/mesto-react-lk/static/js/main.f72da761.js",
-    "static/js/787.057b526d.chunk.js": "/mesto-react-lk/static/js/787.057b526d.chunk.js",
-    "static/media/Inter-Black.ttf?v=3.19": "/mesto-react-lk/static/media/Inter-Black.5bc9c4d5770576fe98af.ttf",
-    "static/media/Inter-Regular.ttf?v=3.19": "/mesto-react-lk/static/media/Inter-Regular.96ce55e3ba0d6a209090.ttf",
-    "static/media/Inter-Medium.ttf?v=3.19": "/mesto-react-lk/static/media/Inter-Medium.18b8c68e64126db9ce88.ttf",
-    "static/media/Inter-Medium.woff?v=3.19": "/mesto-react-lk/static/media/Inter-Medium.44e343ff76a98508d309.woff",
-    "static/media/Inter-Black.woff?v=3.19": "/mesto-react-lk/static/media/Inter-Black.c6938660eec019fefd68.woff",
-    "static/media/Inter-Regular.woff?v=3.19": "/mesto-react-lk/static/media/Inter-Regular.8c206db99195777c6769.woff",
-    "static/media/Inter-Medium.woff2?v=3.19": "/mesto-react-lk/static/media/Inter-Medium.01f03178adde434fc9fa.woff2",
-    "static/media/Inter-Black.woff2?v=3.19": "/mesto-react-lk/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
-    "static/media/Inter-Regular.woff2?v=3.19": "/mesto-react-lk/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
-    "static/media/avatar.jpg": "/mesto-react-lk/static/media/avatar.4510cbb7ae1a7e06872e.jpg",
-    "static/media/header-logo.svg": "/mesto-react-lk/static/media/header-logo.03b78ada3425e9132ff3db7ea8f4a6f6.svg",
-    "static/media/heart.svg": "/mesto-react-lk/static/media/heart.87ed371465c7a6a1cd01.svg",
-    "index.html": "/mesto-react-lk/index.html",
-    "static/media/trash.svg": "/mesto-react-lk/static/media/trash.823b0cf1b0b7e9cb7cad.svg",
-    "static/media/heart-active.svg": "/mesto-react-lk/static/media/heart-active.fe17a515669479b1e649.svg",
-    "main.8950bf51.css.map": "/mesto-react-lk/static/css/main.8950bf51.css.map",
-    "main.f72da761.js.map": "/mesto-react-lk/static/js/main.f72da761.js.map",
-    "787.057b526d.chunk.js.map": "/mesto-react-lk/static/js/787.057b526d.chunk.js.map"
+    "main.css": "/react-mesto-auth/static/css/main.01ae7d92.css",
+    "main.js": "/react-mesto-auth/static/js/main.0774e637.js",
+    "static/js/787.2df4b1c8.chunk.js": "/react-mesto-auth/static/js/787.2df4b1c8.chunk.js",
+    "static/media/Inter-Black.ttf?v=3.19": "/react-mesto-auth/static/media/Inter-Black.5bc9c4d5770576fe98af.ttf",
+    "static/media/Inter-Regular.ttf?v=3.19": "/react-mesto-auth/static/media/Inter-Regular.96ce55e3ba0d6a209090.ttf",
+    "static/media/Inter-Medium.ttf?v=3.19": "/react-mesto-auth/static/media/Inter-Medium.18b8c68e64126db9ce88.ttf",
+    "static/media/Inter-Medium.woff?v=3.19": "/react-mesto-auth/static/media/Inter-Medium.44e343ff76a98508d309.woff",
+    "static/media/Inter-Black.woff?v=3.19": "/react-mesto-auth/static/media/Inter-Black.c6938660eec019fefd68.woff",
+    "static/media/Inter-Regular.woff?v=3.19": "/react-mesto-auth/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/Inter-Medium.woff2?v=3.19": "/react-mesto-auth/static/media/Inter-Medium.01f03178adde434fc9fa.woff2",
+    "static/media/Inter-Black.woff2?v=3.19": "/react-mesto-auth/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
+    "static/media/Inter-Regular.woff2?v=3.19": "/react-mesto-auth/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/avatar.jpg": "/react-mesto-auth/static/media/avatar.4510cbb7ae1a7e06872e.jpg",
+    "static/media/header-logo.svg": "/react-mesto-auth/static/media/header-logo.03b78ada3425e9132ff3db7ea8f4a6f6.svg",
+    "static/media/heart.svg": "/react-mesto-auth/static/media/heart.87ed371465c7a6a1cd01.svg",
+    "index.html": "/react-mesto-auth/index.html",
+    "static/media/trash.svg": "/react-mesto-auth/static/media/trash.823b0cf1b0b7e9cb7cad.svg",
+    "static/media/heart-active.svg": "/react-mesto-auth/static/media/heart-active.fe17a515669479b1e649.svg",
+    "main.01ae7d92.css.map": "/react-mesto-auth/static/css/main.01ae7d92.css.map",
+    "main.0774e637.js.map": "/react-mesto-auth/static/js/main.0774e637.js.map",
+    "787.2df4b1c8.chunk.js.map": "/react-mesto-auth/static/js/787.2df4b1c8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8950bf51.css",
-    "static/js/main.f72da761.js"
+    "static/css/main.01ae7d92.css",
+    "static/js/main.0774e637.js"
   ]
 }
